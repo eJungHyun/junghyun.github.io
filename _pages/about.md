@@ -57,3 +57,6 @@ in human-centered AI and educational technology.
 
 아동학 학사 및 EMBA 학위를 보유하고 있으며, KOICA 35기 해외봉사단으로 파라과이 아순시온에서
 고등학교 컴퓨터 교사로 활동한 경험이 이후 인간 중심 AI 및 에듀테크 연구에 대한 관심으로 이어졌습니다.
+<br/>
+<br/>
+<br/>
