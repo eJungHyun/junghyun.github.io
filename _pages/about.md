@@ -13,7 +13,7 @@ profile:
   more_info: >
     <p>📍 Seoul, Republic of Korea</p>
     <p>📧 ejunghyun@ewha.ac.kr</p>
-    <p>🏫 ECC, Ewha Womans University</p>
+    <p>🏫 Ewha Womans University</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -31,8 +31,6 @@ latest_posts:
 
 I am an integrated M.S.-Ph.D. student in AI at [Ewha Womans University](https://www.ewha.ac.kr), 
 advised by [Prof. Junhyug Noh](https://pai.ewha.ac.kr/) in the PAI Lab.
-
-이화여자대학교 인공지능학과 석박사통합과정으로, 노준혁 교수님의 지도 하에 PAI Lab에서 연구하고 있습니다.
 
 **Research Interests**
 
