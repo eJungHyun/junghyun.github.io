@@ -10,13 +10,7 @@ contact_note: >
   Feel free to reach out via email for research collaborations or questions.
   연구 협업 및 문의는 이메일로 편하게 연락 주세요.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Integrated M.S.-Ph.D. student at Ewha Womans University (AI).
-  이화여자대학교 인공지능학과 석박사통합과정.
-  Member of <a href="https://pai.ewha.ac.kr/" target="_blank">PAI Lab</a> under Prof. Junhyug Noh.
-  Research interests: multimodal emotion recognition, sign language recognition, AI fairness,
-  multimodal reasoning, active learning, domain adaptation,
-  child development & developmental psychology,
-  and early detection of MCI and dementia.
+  
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
