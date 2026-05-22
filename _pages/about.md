@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   Integrated M.S.-Ph.D. Student · <a href="https://pai.ewha.ac.kr/" target="_blank">PAI Lab</a> · 
