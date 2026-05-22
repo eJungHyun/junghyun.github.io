@@ -50,12 +50,13 @@ and secured multiple government ICT grants.
 Prior to that, I worked as a server engineer at **LINE PLAY (LINE Group)** and **Entiq Games**,
 building large-scale backend systems serving millions of users.
 
-I also hold a **B.A. in Child Studies** and an **EMBA** (Aalto University / aSSIST),
+I also hold a **B.S. in Computer Science** and **B.A. in Multimedia Studies** (Ewha Womans University),
+a **B.A. in Child Studies**, and an **EMBA** (Aalto University / aSSIST),
 and previously served as a **KOICA volunteer computer teacher in Asunción, Paraguay**,
 where I taught CS fundamentals at a national high school — an experience that shaped my interest
 in human-centered AI and educational technology.
 
-아동학 학사 및 EMBA 학위를 보유하고 있으며, KOICA 35기 해외봉사단으로 파라과이 아순시온에서
+컴퓨터공학 학사(복수전공: 멀티미디어학), 아동학 학사 및 EMBA 학위를 보유하고 있으며, KOICA 35기 해외봉사단으로 파라과이 아순시온에서
 고등학교 컴퓨터 교사로 활동한 경험이 이후 인간 중심 AI 및 에듀테크 연구에 대한 관심으로 이어졌습니다.
 <br/>
 <br/>
