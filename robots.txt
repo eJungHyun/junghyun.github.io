@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://junghyun.github.io/sitemap.xml
+Sitemap: https://ejunghyun.github.io/sitemap.xml
